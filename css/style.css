@@ -1,0 +1,21 @@
+p  {
+   text-align: center;
+   font-size: 40px;
+   color: red;
+}
+
+.p {
+   text-align: center;
+   font-size: 80px;
+   color: rgb(15, 15, 15);
+}
+h1 {
+    font-style: background-color;
+    color:rgb(10, 39, 167);
+    text-decoration: line-through;
+    text-decoration: underline;
+}
+
+body {
+    background-color: rgba(227, 229, 241, 0.904);
+}
